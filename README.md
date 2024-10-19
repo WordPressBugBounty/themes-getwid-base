@@ -1,0 +1,1 @@
+# themes-getwid-base
